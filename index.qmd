@@ -1,0 +1,166 @@
+---
+title: "Habilitation à diriger des recherches <br> en sciences économiques"
+author: "<br> [Florian Oswald](https://floswald.github.io/)"
+date: "24 March 2023"
+date-format: "D MMMM, YYYY"
+institute: "SciencesPo Paris"
+format: 
+  revealjs:
+    theme: _extensions/metropolis-theme/metropolis.scss
+    chalkboard: true
+    logo: /images/ScPo-logo.png
+    footer: "HDR [Florian Oswald](https://floswald.github.io/)"
+    incremental: false
+    code-line-numbers: false
+    highlight-style: github  
+    slide-number: true
+editor: visual
+---
+
+## Agenda: Efficiency of Urban Environments
+
+1.  Economic Efficiency: Agglomeration, Growth and Size of Cities.
+2.  Environmental Efficiency: Urban Sprawl and Footprint.
+
+. . .
+
+### Some Questions
+
+::: {.fragment .fade-in-then-semi-out}
+1.  Who lives (or moves) where, and what's the role of Housing?
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+2.  How does City Growth occur in the long run?
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+3.  How are Fertility and City Growth connected?
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+4.  Which policy mix will achieve net-zero emissions and keep inequality at bay?
+:::
+
+# Published Research for HDR
+
+> 👉 Who lives (or moves) where, and what's the role of Housing?
+
+::: footer
+:::
+
+------------------------------------------------------------------------
+
+## [Labor Market Mobility and Homeownership](https://floswald.github.io/publication/option-homeownership-2019/) {background-image="images/QE2019.png" background-size="50%" background-position="90% 60%"}
+
+::: {columns}
+::: {.column width="40%"}
+-   Regional Migration rates are low 👉 unimportant?
+-   Heterogeneous Migration Elasticities and, hence, insurance.
+-   Selection on unobservable types.
+-   Estimate consumption value of shutting down migration. E.g. *Young* would demand 30% higher consumption.
+:::
+
+::: {.column width="60%"}
+:::
+:::
+
+------------------------------------------------------------------------
+
+## [Selection of Houses into Owned vs Rented](https://floswald.github.io/publication/housing-stock/)
+
+::: {columns}
+::: {.column width="45%"}
+### Questions
+
+::: {.fragment .fade-in-then-semi-out}
+1.  Which characteristics of a house matter for selection into rented or owned sector?
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+2.  Conditional on selection, how are those characteristics priced?
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+3.  Importance for homeownership theories?
+:::
+:::
+
+::: {.column width="48%"}
+::: fragment
+### Findings
+
+1.  High-value houses ($m^2$ or *detached*) more likely owned, and have a *higher rent/price ratio*.
+:::
+
+::: fragment
+2.  Rent/Price ratio varies greatly with location, $\Pr(own)$ does not.
+:::
+
+::: fragment
+3.  Modeling and measuring unobserved quality is key for selection.
+:::
+:::
+:::
+
+------------------------------------------------------------------------
+
+## [Mortgage Default and Lending Behaviour](https://floswald.github.io/publication/li-2017-recourse/)
+
+::: {columns}
+::: {.column width="45%"}
+::: fragment
+-   Nevada decided in 2009 to abolish *Recourse Loans*.
+-   Conduct an event-study on loan-level data. Control: Refinance loans (unaffected by change in law)
+-   Approval rates declined by about 3%, loan sizes by 1-2%.
+-   Placebo in counties outside Nevada's border confirm results.
+:::
+:::
+
+::: {.column width="48%"}
+::: fragment
+### Contributions and Findings
+
+-   First paper to use within-state variation in *recourse*.
+-   We corroborate existing evidence: Default-friendly states have reduced mortgage supply.
+-   We cannot say anything about welfare: maybe now insurance is greater for borrowers?
+-   👉 [Follow up with Meghir and Li](https://floswald.github.io/publication/bankruptcy-2019/)
+:::
+:::
+:::
+
+# Ongoing Work
+
+> 👉 2. How does City Growth occur in the long run?
+
+> 👉 3. How are Fertility and City Growth connected?
+
+> 👉 4. Which policy mix will achieve net-zero emissions and keep inequality at bay?
+
+------------------------------------------------------------------------
+
+##  {background-image="images/landuse1.png" background-opacity="50%"}
+
+### Land Use, Structural Change and Urban Expansion
+
+::: fragment
+::: {columns}
+::: {.column width="45%"}
+-   this
+-   that
+:::
+
+::: {.column width="45%"}
+-   this
+-   that
+:::
+:::
+:::
+
+------------------------------------------------------------------------
+
+## Fertility, Housing Costs and City Growth
+
+------------------------------------------------------------------------
+
+## Fiscal Policy for Climate Change
