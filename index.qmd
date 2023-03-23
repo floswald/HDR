@@ -51,7 +51,7 @@ editor: visual
 
 ------------------------------------------------------------------------
 
-## [Labor Market Mobility and Homeownership](https://floswald.github.io/publication/option-homeownership-2019/) {background-image="images/QE2019.png" background-size="50%" background-position="90% 60%"}
+## [Labor Market Mobility and Homeownership](https://floswald.github.io/publication/option-homeownership-2019/) {background-image="images/QE2019.png" background-size="45%" background-position="90% 65%"}
 
 ::: {columns}
 ::: {.column width="40%"}
@@ -145,7 +145,11 @@ editor: visual
 
 > 👉 4. Which policy mix will achieve net-zero emissions and keep inequality at bay?
 
-------------------------------------------------------------------------
+# Land Use, Structural Change and Urban Expansion
+
+joint with Nicolas Cœurdacier and Marc Teignier-Baque
+
+---
 
 ##  {background-image="images/landuse1.png" background-opacity="40%"}
 
@@ -185,17 +189,9 @@ editor: visual
 * Commuting costs also fall! But implications are different.
 :::
 
-::: {.fragment}
-* We provide a serious quantitative evaluation.
-:::
-
 
 :::
 :::
-
----
-
-##  {background-image="images/map-pra-all.png"}
 
 
 ---
@@ -206,15 +202,10 @@ editor: visual
 ::: {columns}
 
 ::: {.column width="47%"}
-::: {.fragment}
+> If this mechanism has any bite, we want to see the cross sectional implications.
 
+::: {.fragment}
 #### Extend model to K regions
-
-* *If this mechanism has any bite, we want to see the cross section*
-:::
-
-::: {.fragment}
-* Extend model to K regions
 :::
 
 ::: {.fragment}
@@ -234,9 +225,10 @@ editor: visual
 * Land Value Distribution identifies rural productivity distribution
 :::
 
+
+
 ::: {.fragment}
-* Model *extremely* close to data in OLS regression of urban density on rural price.
-* For a subsample we can instrument price with wheat yields, same results.
+* *Land Value Distribution*? 🤔
 :::
 
 
@@ -245,7 +237,41 @@ editor: visual
 
 ---
 
-## Wheat Yields
+## [Novel Data: PRA-level prices](https://floswald.github.io/LandUseR/articles/pra-check200.html) {transition="zoom" transition-speed="slow"}
+
+![](images/map-pra-all.png){fig-align="center"}
+
+
+---
+
+## Using Novel Data to Evaluate The Model
+
+<br>
+
+$$\log{\text{density}_{k,t}} = a_t + b \log \rho_{k,t} + c Z_{k,t} + u_{k,t}$$
+
+
+::: {columns}
+
+::: {.column width="55%"}
+
+![](images/map-pra-all.png)
+
+:::
+
+::: {.column width="40%"}
+
+
+* Model *extremely* close to data in OLS regression of urban density on rural price.
+* For a subsample we can instrument price with wheat yields, same results.
+
+
+:::
+:::
+
+---
+
+## Wheat Yields {visibility="hidden"}
 
 ![](images/wheat-yield-2000.png){fig-align="center"}
 
@@ -253,71 +279,79 @@ editor: visual
 
 
 
-------------------------------------------------------------------------
 
-## Fertility, Housing Costs and City Growth
+# Fertility, Housing Costs and City Growth
+
+joint with Nicolas Cœurdacier, Pierre-Philippe Combes and Laurent Gobillon
+
+---
+
+## Fertility, Housing Costs: The Story
 
 
 ::: {columns}
-::: {.column width="50%"}
-::: {.fragment}
+::: {.column width="40%"}
 1. Housing Space is scarse in dense locations.
-:::
+
 ::: {.fragment}
 2. Children are costly in terms of housing space:
-    a. Spatial Sorting.
-    b. Endogenous Fertility.
+:::
+::: {.fragment}
+  a. Spatial Sorting.
+  b. Endogenous Fertility.
 :::
 ::: {.fragment}
 3. Negative density-dependence of Fertility.
 :::
 :::
 
-::: {.column width="40%"}
-
+::: {.column width="50%"}
 ::: {.fragment}
 ![](images/kidsbydensityclasslinear14.png)
 :::
-::: {.fragment}
-![](images/spending.png)
-:::
-:::
-
 :::
 :::
 
 
-## Fertility and Housing Costs: Contribution
+
+---
+
+## Fertility and Housing Costs: Contribution 1
 
 
-::: {columns}
-::: {.column width="45%"}
 ::: {.fragment}
 1. Document 5 stylized facts using Census Data.
 :::
 
 ::: {.fragment}
+![](images/kids-dist.png){fig-align="left" width="45%"} ![](images/spending.png){fig-align="right" width="45%"}
+:::
+
+
+
+
+---
+
+## Fertility and Housing Costs: Contribution 2
+
+
 2. Develop a quantitative spatial life-cycle model with endogenous fertility and demographics.
     - Sorting patterns across demographics
     - Fertility dynamics across time and space
     - Housing market: Automatic Stabilizer.
-:::
-:::
 
-
-::: {.column width="45%"}
 
 ::: {.fragment}
-![](images/kids-dist.png)
-:::
-:::
+![](images/fertility-output.png){fig-align="center"}
 :::
 
 
 
+# Fiscal Policy for Climate Change
 
+joint with François Le Grand, Xavier Ragot and Aurelién Saussay
 
-------------------------------------------------------------------------
+---
 
 ## Fiscal Policy for Climate Change
 
