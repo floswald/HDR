@@ -51,7 +51,7 @@ editor: visual
 
 ------------------------------------------------------------------------
 
-## [Labor Market Mobility and Homeownership](https://floswald.github.io/publication/option-homeownership-2019/) {background-image="images/QE2019.png" background-size="45%" background-position="90% 65%"}
+## [Labor Market Mobility and Homeownership[^1]](https://floswald.github.io/publication/option-homeownership-2019/) {background-image="images/QE2019.png" background-size="45%" background-position="90% 60%"}
 
 ::: {columns}
 ::: {.column width="40%"}
@@ -65,7 +65,7 @@ editor: visual
 -   Selection on unobservable types.
 :::
 ::: {.fragment }
--   Estimate consumption value of shutting down migration. E.g. *Young* would demand 30% higher consumption.
+-   Estimate consumption value of shutting down migration.
 :::
 :::
 
@@ -73,9 +73,11 @@ editor: visual
 :::
 :::
 
+[^1]: The Effect of Homeownership on the Option Value of Regional Migration, Florian Oswald, QE (2019)
+
 ------------------------------------------------------------------------
 
-## [Selection of Houses into Owned vs Rented](https://floswald.github.io/publication/housing-stock/)
+## [Selection of Houses into Owned vs Rented[^2]](https://floswald.github.io/publication/housing-stock/)
 
 ::: {columns}
 ::: {.column width="45%"}
@@ -111,9 +113,11 @@ editor: visual
 :::
 :::
 
+[^2]: The Housing Stock, Housing Prices, and User Costs: The Roles of Location, Structure and Unobserved Quality. Jonathan Halket, Lars Nesheim, Florian Oswald, IER (2020)
+
 ------------------------------------------------------------------------
 
-## [Mortgage Default and Lending Behaviour](https://floswald.github.io/publication/li-2017-recourse/)
+## [Mortgage Default and Lending Behaviour[^3]](https://floswald.github.io/publication/li-2017-recourse/)
 
 ::: {columns}
 ::: {.column width="45%"}
@@ -136,6 +140,8 @@ editor: visual
 :::
 :::
 :::
+
+[^3]: Recourse and Residential Mortgage Market: the Case of Nevada. Wenli Li and Florian Oswald, JUE (2017)
 
 # Ongoing Work
 
