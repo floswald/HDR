@@ -151,6 +151,12 @@ joint with Nicolas Cœurdacier and Marc Teignier-Baque
 
 ---
 
+##  {background-image="images/landuse1.png"}
+
+
+
+---
+
 ##  {background-image="images/landuse1.png" background-opacity="40%"}
 
 ### Land Use, Structural Change and Urban Expansion
@@ -159,10 +165,10 @@ joint with Nicolas Cœurdacier and Marc Teignier-Baque
 ::: {columns}
 
 ::: {.column width="44%"}
-::: {.fragment}
+
 #### Facts for France 1840-2020:
-1. Rural Employment Share drops from 60% to 2% as workers move to cities.
-:::
+1. Structural Change: Agricultural Employment and Land ⬇️, spending on food ⬇️, housing ⬆️, *urban good* ⬆️
+
 ::: {.fragment}
 2. The share of agricultural land in GDP goes from 400% to 10%.
 :::
@@ -170,7 +176,7 @@ joint with Nicolas Cœurdacier and Marc Teignier-Baque
 3. House prices do *not* rise until the 1960s.
 :::
 ::: {.fragment}
-4. Urban Density falls 8-fold. 
+4. Urban Density falls **8-fold**. 
 :::
 :::
 
@@ -183,10 +189,10 @@ joint with Nicolas Cœurdacier and Marc Teignier-Baque
 :::
 
 ::: {.fragment}
-* Farmland getting cheaper and people spending more on housing <br> 👉 Density Falls.
+* Farmland prices (*opportunity cost of city expansion*) fall, and people spend more on housing <br> 👉 Density Falls.
 :::
 ::: {.fragment}
-* Commuting costs also fall! But implications are different.
+* Commuting costs also fall! But implications for urban density are different.
 :::
 
 
@@ -221,14 +227,16 @@ joint with Nicolas Cœurdacier and Marc Teignier-Baque
 ::: {.column width="47%"}
 
 ::: {.fragment}
-* Urban Population Distribution identifies urban productivity distribution
-* Land Value Distribution identifies rural productivity distribution
+* Urban Population Distribution (i.e. the *census*) identifies urban productivity distribution.
+:::
+::: {.fragment}
+* Agricultural Land Value Distribution identifies rural productivity distribution.
 :::
 
 
 
 ::: {.fragment}
-* *Land Value Distribution*? 🤔
+* *Agricultural Land Value Distribution*? 🤔
 :::
 
 
@@ -324,7 +332,11 @@ joint with Nicolas Cœurdacier, Pierre-Philippe Combes and Laurent Gobillon
 :::
 
 ::: {.fragment}
-![](images/kids-dist.png){fig-align="left" width="45%"} ![](images/spending.png){fig-align="right" width="45%"}
+::: {layout-ncol=2}
+![Fertility by Distance to Center](images/kids-dist.png) 
+
+![Housing Consumption ($m^2$) by Number of Kids](images/spending.png)
+:::
 :::
 
 
